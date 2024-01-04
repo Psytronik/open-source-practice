@@ -2480,6 +2480,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Thirumalesh Chinna](https://github.com/ThisaruD)
   - [Thisaru Dilshan](https://github.com/ThisaruD)
   - [Thomas Pritchard](https://github.com/tpritchard843)
+  - [Theo Barnard](https://github.com/psytronik)
   - [Thushara Supun](https://github.com/tskarunasena)
   - [Tibebe Solomon](https://github.com/sapencio)
   - [Tierra Barrow](https://github.com/tcodes27)
